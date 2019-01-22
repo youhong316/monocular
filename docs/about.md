@@ -29,17 +29,10 @@ Charts. Monocular includes a scanning back-end for indexing charts and their met
 
 Other resources:
 
-- [Project README](https://github.com/kubernetes-helm/monocular/blob/master/README.md)
+- [Project README](https://github.com/helm/monocular/blob/master/README.md)
 - [Project Background](https://deis.com/blog/2017/building-a-helm-ui/)
 - [Technical Overview](https://engineering.bitnami.com/2017/02/22/what-the-helm-is-monocular.html)
 
 The Charts indexed by Monocular are from the official Kubernetes Helm Chart repository.
 
 The process for contributing new Charts can be found at: https://github.com/kubernetes/charts#contributing-a-chart
-
-*Coming soon: Point Monocular to a Helm Chart registry of your choice.*
-
-
-## Who are the maintainers of Monocular and KubeApps.com?
-
-Bitnami and Deis are the main committers to the Monocular project. Bitnami also sponsors the [KubeApps](https://kubeapps.com) website by providing hosting on GKE and contributing to website design.
